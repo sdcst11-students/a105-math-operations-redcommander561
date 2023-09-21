@@ -14,3 +14,14 @@ You may use either the ** operator or math.pow(x,y) for your exponents
 You may use either math.sqrt(x) or the exponent to the power of 0.5 for your square root
 
  '''
+
+A = 5
+B = 8
+
+
+C = A**2 + B**2
+
+Answer = C ** 0.5
+
+print(Answer)
+
